@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/iY001">
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
