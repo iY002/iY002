@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./Y1 - TRANSPART - DARK.png" width="140" alt="Y1 Logo" />
+<img src="./y1-dark.png" width="140" alt="Y1 Logo" />
 
 # Y1
 
