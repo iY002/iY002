@@ -232,7 +232,7 @@ Frontend-focused · Builder · Learner
 
 <br>
 
-<img src="./assets/Y1-logo.png" width="55" alt="Y1">
+<img src="./y1-dark.png" width="55" alt="Y1">
 
 <br><br>
 
