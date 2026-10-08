@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/Y1-logo.png" width="110" alt="Y1 Logo">
+<img src="./y1-dark.png" width="110" alt="Y1 Logo">
 
 # Y1
 
