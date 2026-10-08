@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./y1-move.gif" width="220" alt="Y1">
+<img src="./y1-gif.gif" width="220" alt="Y1">
 
 # **Yousef Abdelaziz**
 
