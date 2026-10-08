@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./assets/y1-move.gif" width="340" alt="Y1">
+<img src="./y1-gif.gif" width="340" alt="Y1">
 
 <br>
 
 # `Y1`
 
-## **YOUSef Abdelaziz**
+## **Yousef Abdelaziz**
 
 ### `Software Developer` · `Frontend Engineer` · `Builder`
 
