@@ -33,7 +33,7 @@ clean engineering, thoughtful UI, and smooth interactions.
 
 <td width="40%" align="center">
 
-<img src="./y1-move.gif" width="320" alt="Y1 animated logo">
+<img src="./y1-gif.gif" width="320" alt="Y1 animated logo">
 
 </td>
 </tr>
