@@ -1,57 +1,28 @@
 <div align="center">
 
-<img src="./Y1 - TRANSPART - DARK.png" width="110" />
+<img src="./Y1 - TRANSPART - DARK.png" width="140" alt="Y1 Logo" />
 
 # Y1
 
-**Software Developer**
+### Software Developer · Frontend Specialist
 
-`React` · `Next.js` · `TypeScript` · `Node.js`
+Building clean, interactive & scalable web experiences.
 
-<br/>
-
-> Turning ideas into interfaces.
-
-<br/>
-
-[ VIEW PORTFOLIO →](https://y1dev.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-y1dev.vercel.app-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://y1dev.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
 
 </div>
 
 ---
 
-### `01` — ABOUT
+## `> whoami`
 
-I'm Yousef, a Software Developer focused on building
-modern web experiences.
-
-I like simple interfaces, thoughtful interactions,
-and software that feels good to use.
-
-### `02` — STACK
-
-`React` `Next.js` `TypeScript` `Node.js`
-`Tailwind` `Express` `Prisma` `MongoDB`
-
-### `03` — BUILDING
-
-→ Personal developer platform  
-→ Interactive portfolio  
-→ Full-stack applications  
-→ Experimental UI & motion
-
-### `04` — WORK
-
-[Portfolio →](https://y1dev.vercel.app/)
-
-[Projects →](https://y1dev.vercel.app/projects)
-
----
-
-<div align="center">
-
-### Y1
-
-`BUILD · LEARN · REPEAT`
-
-</div>
+```ts
+const developer = {
+  name: "Yousef Abdelaziz",
+  brand: "Y1",
+  role: "Software Developer",
+  focus: "Frontend Development",
+  currently: "Building & learning",
+};
