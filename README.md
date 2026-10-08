@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/y1-gif.gif" width="280" alt="Y1">
+<img src="./y1-gif.gif" width="280" alt="Y1">
 
 <br>
 
